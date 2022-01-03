@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/style.css"> 
+    <title>Cipő lista</title>
+</head>
+<body>
+    <h1>Cipő lista</h1>
+    <div>
+    <form id="cipoform">
+        <label>Add meg a márkát: <input type="text" name="marka" ></label>
+        <label>Add meg a nemet: <input type="text" name="nem" ></label>
+        <label>Add meg a méretet: <input type="number" name="meret" ></label>
+        <label>Add meg az árat: <input type="number" name="ar"></label>
+
+        <button type="submit" class="btn btn-outline-danger">Új cipő felvétele</button>
+    </form>
+    <button id="eddigicipok" class="btn btn-primary">Az eddig felvett cipők listája</button>  
+    </div>
+    <div id="cipo"></div>
+    <script src="cipo.js"></script>
+</body>
+</html>

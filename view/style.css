@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+    color:black;
+}
+
+
+#eddigicipok{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-collapse: collapse;
+}
+
+#tabla{
+    width: 460px
+}
+
+
+th{
+    background-color:brown;
+    border-bottom: yellow solid 5px;
+    border: yellow solid 1px;
+}
+
+td{
+    border: blue solid 4px;
+}

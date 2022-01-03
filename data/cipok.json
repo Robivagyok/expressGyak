@@ -1,0 +1,20 @@
+[
+    {
+        "marka": "Adidas",
+        "nem": "Ferfi",
+        "meret": "42",
+        "ar": "39000"
+    },
+    {
+        "marka": "Puma",
+        "nem": "Noi",
+        "meret": "39",
+        "ar": "19000"
+    },
+    {
+        "marka": "Nike",
+        "nem": "Férfi",
+        "meret": "44",
+        "ar": "30000"
+    }
+]
